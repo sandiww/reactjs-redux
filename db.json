@@ -1,0 +1,95 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "Sandi",
+      "alamat": "Jalan Garcinia 1",
+      "umur": 25,
+      "noHp": "08983322660"
+    },
+    {
+      "id": 2,
+      "nama": "Abdul",
+      "alamat": "Jalan Garcinia 2",
+      "umur": 24,
+      "noHp": "08983322661"
+    },
+    {
+      "id": 3,
+      "nama": "Adam",
+      "alamat": "Jalan Garcinia 3",
+      "umur": 24,
+      "noHp": "08983322662"
+    },
+    {
+      "id": 4,
+      "nama": "Wahid",
+      "alamat": "Jalan Garcinia 4",
+      "umur": 24,
+      "noHp": "08983322662"
+    },
+    {
+      "id": 5,
+      "nama": "Arvan",
+      "alamat": "Jalan Garcinia 5",
+      "umur": 24,
+      "noHp": "08983322662"
+    },
+    {
+      "id": 6,
+      "nama": "Desta",
+      "alamat": "Jalan Garcinia 6",
+      "umur": 24,
+      "noHp": "08983322662"
+    },
+    {
+      "id": 7,
+      "nama": "Nuri",
+      "alamat": "Jalan Garcinia 7",
+      "umur": 24,
+      "noHp": "08983322662"
+    },
+    {
+      "id": 8,
+      "nama": "Rusman",
+      "alamat": "Jalan Garcinia 8",
+      "umur": 24,
+      "noHp": "08983322662"
+    },
+    {
+      "id": 9,
+      "nama": "Fadil",
+      "alamat": "Jalan Garcinia 0",
+      "umur": 24,
+      "noHp": "08983322662"
+    },
+    {
+      "id": 10,
+      "nama": "Semul",
+      "alamat": "Jalan Garcinia 10",
+      "umur": 24,
+      "noHp": "08983322662"
+    },
+    {
+      "id": 11,
+      "nama": "Kumis",
+      "alamat": "Jalan Garcinia 11",
+      "umur": 24,
+      "noHp": "08983322662"
+    },
+    {
+      "id": 12,
+      "nama": "James",
+      "alamat": "Jalan Garcinia 12",
+      "umur": 24,
+      "noHp": "08983322662"
+    },
+    {
+      "id": 13,
+      "nama": "Sechan",
+      "alamat": "Jalan Garcinia 13",
+      "umur": 24,
+      "noHp": "08983322662"
+    }
+  ]
+}
